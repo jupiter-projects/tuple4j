@@ -62,7 +62,7 @@ var firstName = triple.getFirst();
 var lastName = triple.getSecond();
 var birthday = triple.getThird();
 ```
-Othe built-in classes:
+Other built-in classes:
 - Quadruple - 4 elements
 - Quintuple - 5 elements
 - Sextuple - 6 elements
