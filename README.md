@@ -62,6 +62,14 @@ var firstName = triple.getFirst();
 var lastName = triple.getSecond();
 var birthday = triple.getThird();
 ```
+Othe built-in classes:
+- Quadruple - 4 elements
+- Quintuple - 5 elements
+- Sextuple - 6 elements
+- Septuple - 7 elements
+- Octuple - 8 elements
+- Nonuple - 9 elements
+- Decuple - 10 elements
 ## License
 ```
 Copyright 2020 Julian Jupiter
